@@ -1,0 +1,109 @@
+h1 {
+  color:red;
+  font-family:'Gloria Hallelujah', cursive;
+  margin-top: 0;
+  text-align:center;
+  text-shadow: 5px 5px black;
+}
+p {
+  color:red;
+}
+body {
+  background-color:red;
+  margin-top: 0;
+}
+.landing {
+  background-color: yellow;
+  height: 95vh;
+  background-image: url("https://s3.amazonaws.com/images.gearjunkie.com/uploads/2018/05/matterhorn-3x2.jpg");
+  background-position:top;
+  background-size: cover;
+  font-size: 25px;
+  margin-top: 0;
+  margin-bottom: 100;
+  font-family:'Lobster Two', cursive;
+}
+.landing h1 {
+  font-size: 50px;
+}
+.landing p {
+  text-shadow: 2px 2px black;
+}
+.about {
+  background-color: gray;
+  margin-top: 0px;
+}
+.about {
+  color:white;
+  text-shadow: 1px 1px black;
+}
+.about a {
+  background-color: white;
+}
+ul li {
+  color: red;
+}
+ol li {
+  color: lightblue;
+}
+.about h2 {
+  margin-top: 0;
+}
+.Work {
+  background-color: orange;
+  height: 350px;
+}
+.sub-section{
+  background-color: ;
+  width: 25%;
+  height: 50vh;
+  float: left;
+  padding-bottom: 0px;
+  
+}
+.sub-section img{
+  height: 150px;
+  width: 150px;
+    
+}
+.News {
+  background-color: white;
+  text-shadow: 1px 1px black;
+  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQO8sW1g8k8aDJbNol50HiwHMGI0duZ2oAhPYF5gwU6tO52mqw6&s");
+  background-size: cover;
+  height: 10vh;
+  width: 30%;
+  background-position: center;
+  padding-bottom:200px ;
+  color: 
+  
+}
+.contact {
+  background-color: pink;
+}
+h2 {
+  margin: 0;
+}
+.navigation-bar{
+  background-color: purple;
+  height: 100px;
+}
+.navigation-bar a{
+  background-color: black;
+  font-size: 40px;
+  padding: 50px;
+  margin-right: 20;
+  text-shadow: 4px 4px white;
+  
+}
+.navigation-bar a:hover{
+  color: red;
+  font-size: 60px;
+  background-color: orange;
+  margin-bottom: 50px;
+  text-shadow: 6px 6px black;
+  transition:1s;
+}
+
+    
+  
